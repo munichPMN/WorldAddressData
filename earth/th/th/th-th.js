@@ -1,4 +1,4 @@
-var thailand_address = {
+var th_th_address = {
     "กรุงเทพมหานคร": {
       "พระนคร": {
         "พระบรมมหาราชวัง": 10200,
